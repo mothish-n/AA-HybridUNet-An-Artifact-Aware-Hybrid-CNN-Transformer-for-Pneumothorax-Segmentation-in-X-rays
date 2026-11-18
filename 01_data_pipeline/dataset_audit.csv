@@ -1,0 +1,11 @@
+check,status,detail
+all image files decoded,PASS,12047/12047 ok
+every image has a mask file,PASS,12047/12047
+no orphan masks,PASS,0
+image and mask sizes match,PASS,"image sizes {(1024, 1024): 12047}"
+"masks are binary {0,255} (or {0})",PASS,"value sets: {'0': 9378, '0,255': 2669}"
+RGB channels identical (grayscale cache is lossless),PASS,0 images with channel differences (max diff 0)
+file-name label == mask content,PASS,0 disagreements
+no lesion vanishes when resizing,PASS,0 positive masks become empty after resizing
+no exact duplicate images,WARN,4 files in 2 duplicate groups
+no duplicates across official train/test,WARN,1 duplicate groups span train and test

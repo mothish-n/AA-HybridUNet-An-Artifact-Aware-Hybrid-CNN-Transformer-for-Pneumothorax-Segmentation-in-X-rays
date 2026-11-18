@@ -1,0 +1,3 @@
+run,epochs_run,of,best_epoch,best_val_dice_all,val_dice_lesion_imgs,val_img_auc,mean_epoch_min,complete
+aa_artifact,10,10,7,0.8481,0.4401,0.8977,8.6,True
+baseline_std,10,10,8,0.8464,0.4536,0.9143,4.9,True

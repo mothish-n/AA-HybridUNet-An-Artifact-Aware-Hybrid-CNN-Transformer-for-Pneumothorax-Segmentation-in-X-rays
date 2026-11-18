@@ -1,0 +1,7 @@
+streamlit>=1.36
+torch
+timm
+numpy
+scipy
+opencv-python-headless
+pydicom

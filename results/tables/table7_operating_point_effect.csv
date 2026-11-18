@@ -1,0 +1,3 @@
+,tuned op,Dice lesion (tuned),Dice all (tuned),"Dice lesion (thr 0.5, no post-proc)","Dice all (thr 0.5, no post-proc)"
+aa_artifact,"{'thr': 0.8, 'min_comp': 1000, 'min_img': 0}",0.3998,0.8564,0.4748,0.838
+baseline_std,"{'thr': 0.75, 'min_comp': 1000, 'min_img': 0}",0.4163,0.8613,0.4806,0.8341

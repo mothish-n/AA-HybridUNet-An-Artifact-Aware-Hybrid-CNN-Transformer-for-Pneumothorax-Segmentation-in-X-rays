@@ -1,0 +1,8 @@
+{
+ "status": "done",
+ "epochs_run": 10,
+ "best_val_dice_all": 0.8463963270187378,
+ "best_epoch": 8,
+ "mean_epoch_secs": 292.0396269083023,
+ "finished": "2026-10-21 12:24:13"
+}

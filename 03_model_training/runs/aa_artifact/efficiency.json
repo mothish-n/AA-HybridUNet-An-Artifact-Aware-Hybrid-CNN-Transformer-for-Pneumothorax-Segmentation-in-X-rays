@@ -1,0 +1,13 @@
+{
+ "params_M": 20.055574,
+ "img_size": 512,
+ "gmacs": 33.030476128,
+ "latency_fp32_ms": 40.36899190014083,
+ "latency_fp32_std": 0.2412491668630321,
+ "peak_mem_fp32_gb": 0.57047552,
+ "latency_fp16_ms": 34.139118150172486,
+ "latency_fp16_std": 0.48044082261203724,
+ "peak_mem_fp16_gb": 0.997385216,
+ "throughput_fp16_img_s": 29.291910693215947,
+ "gpu": "Tesla T4"
+}

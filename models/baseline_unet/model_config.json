@@ -1,0 +1,13 @@
+{
+ "kind": "baseline",
+ "model_cfg": {
+  "encoder_name": "efficientnet_b4",
+  "pretrained": false,
+  "drop_path_rate": 0.1
+ },
+ "img_size": 512,
+ "name": "baseline_std",
+ "run": "baseline_std",
+ "best_epoch": 8,
+ "source_sha1": "98fea2c722ef"
+}

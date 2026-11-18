@@ -1,0 +1,8 @@
+|    | A (reference)   | B           | condition     | images        |    n |   mean diff B-A | 95% CI            |   B better (%) |   Wilcoxon p |
+|---:|:----------------|:------------|:--------------|:--------------|-----:|----------------:|:------------------|---------------:|-------------:|
+|  0 | baseline_std    | aa_artifact | Clean         | lesion images |  290 |         -0.0165 | [-0.0374, 0.0036] |           31.7 |       0.213  |
+|  1 | baseline_std    | aa_artifact | Clean         | all images    | 1372 |         -0.0049 | [-0.0117, 0.0020] |            7.1 |       0.176  |
+|  2 | baseline_std    | aa_artifact | Seen, sev 2   | lesion images |  290 |          0.0242 | [0.0023, 0.0466]  |           33.4 |       0.0526 |
+|  3 | baseline_std    | aa_artifact | Seen, sev 2   | all images    | 1372 |         -0.0007 | [-0.0089, 0.0071] |            7.5 |       0.472  |
+|  4 | baseline_std    | aa_artifact | Unseen, sev 2 | lesion images |  290 |          0.0213 | [-0.0007, 0.0436] |           29   |       0.298  |
+|  5 | baseline_std    | aa_artifact | Unseen, sev 2 | all images    | 1372 |         -0.0006 | [-0.0070, 0.0056] |            6.2 |       0.953  |

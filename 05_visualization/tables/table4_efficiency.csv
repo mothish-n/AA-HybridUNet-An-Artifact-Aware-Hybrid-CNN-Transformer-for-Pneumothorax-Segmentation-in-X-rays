@@ -1,0 +1,3 @@
+,Params (M),GMACs,Latency fp32 (ms),Latency fp16 (ms),Peak mem fp16 (GB),Throughput (img/s),Device
+aa_artifact,20.06,33.0,40.4,34.1,1.00,29.3,Tesla T4
+baseline_std,19.41,17.9,24.6,21.3,0.59,46.9,Tesla T4

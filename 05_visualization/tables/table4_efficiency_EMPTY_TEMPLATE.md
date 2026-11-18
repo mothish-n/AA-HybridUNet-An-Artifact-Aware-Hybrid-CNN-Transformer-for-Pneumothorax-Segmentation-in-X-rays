@@ -1,0 +1,4 @@
+|              |   Params (M) |   GMACs |   Latency fp32 (ms) |   Latency fp16 (ms) |   Peak mem fp16 (GB) |   Throughput (img/s) |
+|:-------------|-------------:|--------:|--------------------:|--------------------:|---------------------:|---------------------:|
+| aa_artifact  |          nan |     nan |                 nan |                 nan |                  nan |                  nan |
+| baseline_std |          nan |     nan |                 nan |                 nan |                  nan |                  nan |

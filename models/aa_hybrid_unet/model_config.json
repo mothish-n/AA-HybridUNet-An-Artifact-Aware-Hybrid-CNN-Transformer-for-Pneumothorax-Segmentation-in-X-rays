@@ -1,0 +1,23 @@
+{
+ "kind": "aa",
+ "model_cfg": {
+  "encoder_name": "efficientnet_b4",
+  "pretrained": false,
+  "img_size": 512,
+  "drop_path_rate": 0.1,
+  "use_vit": true,
+  "vit_dim": 256,
+  "vit_depth": 2,
+  "vit_heads": 8,
+  "deep_supervision": true,
+  "use_artifact_head": true,
+  "use_gated_skips": true,
+  "detach_artifact_for_gates": true,
+  "min_gate": 0.2
+ },
+ "img_size": 512,
+ "name": "aa_artifact",
+ "run": "aa_artifact",
+ "best_epoch": 7,
+ "source_sha1": "98fea2c722ef"
+}
