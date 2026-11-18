@@ -83,3 +83,4 @@ streamlit run app.py
 1. **Dual-Head Multi-Task Learning**: Concurrently learns pneumothorax lesion segmentation and auxiliary artifact detection to prevent false positives induced by surgical drains and skin folds.
 2. **Hybrid Attention Architecture**: Incorporates spatial and channel attention mechanisms to capture fine edge boundaries of subtle apical pneumothoraces.
 3. **Calibrated Operating Points**: Validation-tuned probability thresholds and minimum-component filtering to minimize noise and false positives in healthy scans.
+"# AA-HybridUNet-An-Artifact-Aware-Hybrid-CNN-Transformer-for-Pneumothorax-Segmentation-in-X-rays" 
